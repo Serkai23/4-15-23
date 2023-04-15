@@ -12,7 +12,6 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
-
 import com.example.myapplication.SecondActivity;
 import com.example.myapplication.databinding.FragmentHomeBinding;
 
